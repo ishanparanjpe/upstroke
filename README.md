@@ -1,7 +1,6 @@
-# upstroke
-Upstroke pipeline 
+# Upstroke
 
-Code used in Garg et al. manuscript. 
+Code used to determine upstroke frame number in Garg et al. manuscript. 
 
 The following dependencies must first be installed:
 numpy
